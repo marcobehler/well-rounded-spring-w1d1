@@ -1,0 +1,31 @@
+{
+  "ownKey": "home",
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "https://marcobehler.github.io/well-rounded-spring-w1d1"
+      },
+      "description": "",
+      "title": "Java Project",
+      "content": "<h1 id=\"java-project\">Java Project<\/h1>\n<p>This is a short description of this project.<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/404.html"
+      },
+      "description": "",
+      "title": "Java Project",
+      "content": ""
+    }
+  ]
+}

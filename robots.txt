@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /
+
+
+
+Sitemap: https://marcobehler.github.io/well-rounded-spring-w1d1/sitemap.xml
+

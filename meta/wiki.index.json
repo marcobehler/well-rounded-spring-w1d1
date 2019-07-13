@@ -1,0 +1,199 @@
+{
+  "ownKey": "wiki",
+  "childrenPages": {"wiki": {
+    "ownKey": "wiki",
+    "childrenPages": {
+      "features": {
+        "ownKey": "features",
+        "childrenPages": {
+          "one": {
+            "ownKey": "one",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/features",
+                "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+                "fileName": "one",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features/one"
+              },
+              "next": {
+                "path": "wiki/features",
+                "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+                "fileName": "two",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features/two"
+              },
+              "previous": {
+                "path": "wiki",
+                "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+                "fileName": "features",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features"
+              },
+              "description": "",
+              "title": "Feature One",
+              "content": "<p>Feature One<\/p>\n"
+            }]
+          },
+          "two": {
+            "ownKey": "two",
+            "ownPages": [{
+              "reference": {
+                "path": "wiki/features",
+                "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+                "fileName": "two",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features/two"
+              },
+              "next": {
+                "path": "wiki",
+                "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+                "fileName": "extending",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/extending"
+              },
+              "previous": {
+                "path": "wiki/features",
+                "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+                "fileName": "one",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features/one"
+              },
+              "description": "",
+              "title": "Feature Two",
+              "content": "<p>Feature Two<\/p>\n"
+            }]
+          }
+        },
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "features",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features"
+          },
+          "next": {
+            "path": "wiki/features",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "one",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features/one"
+          },
+          "previous": {
+            "path": "wiki",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "configuration",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/configuration"
+          },
+          "description": "",
+          "title": "Features",
+          "content": "<p>List of all features<\/p>\n"
+        }]
+      },
+      "configuration": {
+        "ownKey": "configuration",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "configuration",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/configuration"
+          },
+          "next": {
+            "path": "wiki",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "features",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features"
+          },
+          "previous": {
+            "path": "wiki",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "installation",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/installation"
+          },
+          "description": "",
+          "title": "Basic Configuration",
+          "content": "<p>Configuration Page<\/p>\n"
+        }]
+      },
+      "installation": {
+        "ownKey": "installation",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "installation",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/installation"
+          },
+          "next": {
+            "path": "wiki",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "configuration",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/configuration"
+          },
+          "description": "",
+          "title": "Installation",
+          "content": "<p>Extending Page<\/p>\n"
+        }]
+      },
+      "extending": {
+        "ownKey": "extending",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "extending",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/extending"
+          },
+          "previous": {
+            "path": "wiki/features",
+            "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+            "fileName": "two",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features/two"
+          },
+          "description": "",
+          "title": "Extending",
+          "content": "<ul>\n<li><a href=\"installation.md\">Installation<\/a><\/li>\n<li><a href=\"configuration.md\">Basic Configuration<\/a><\/li>\n<li><a href=\"features.md\">Features<\/a>\n<ul>\n<li><a href=\"features/one.md\">Feature One<\/a><\/li>\n<li><a href=\"features/two.md\">Feature Two<\/a><\/li>\n<\/ul>\n<\/li>\n<li><a href=\"extending.md\">Extending<\/a><\/li>\n<\/ul>\n"
+        }]
+      }
+    },
+    "ownPages": [{
+      "reference": {
+        "path": "",
+        "baseUrl": "https://marcobehler.github.io/well-rounded-spring-w1d1",
+        "fileName": "wiki",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "https://marcobehler.github.io/well-rounded-spring-w1d1/wiki"
+      },
+      "description": "",
+      "title": "Wiki",
+      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/installation\">Installation<\/a><\/li> \n   <li><a href=\"https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/configuration\">Basic Configuration<\/a><\/li> \n   <li><a href=\"https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features\">Features<\/a> \n    <ul> \n     <li><a href=\"https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features/one\">Feature One<\/a><\/li> \n     <li><a href=\"https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/features/two\">Feature Two<\/a><\/li> \n    <\/ul> <\/li> \n   <li><a href=\"https://marcobehler.github.io/well-rounded-spring-w1d1/wiki/extending\">Extending<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+    }]
+  }}
+}
